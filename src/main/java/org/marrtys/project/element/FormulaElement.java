@@ -1,4 +1,8 @@
-package org.marrtys.project;
+package org.marrtys.project.element;
 
 public interface FormulaElement {
+
+    String getElement ();
+
+
 }

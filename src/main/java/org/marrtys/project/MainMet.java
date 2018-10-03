@@ -6,7 +6,7 @@ public class MainMet {
 
         FormulaParser fpr = new FormulaParser();
 
-        double result = fpr.pars(" 5.6 + 5");
+        double result = fpr.pars(" 5.6 + 5 - 2");
 
         System.out.println("" + result);
 
